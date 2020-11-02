@@ -13,7 +13,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jpablolima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpablolima&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jpablolima/github-readme-stats)
 
 
 <!--
