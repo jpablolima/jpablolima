@@ -14,7 +14,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jpablolima=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 <!--
 **jpablolima/jpablolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
