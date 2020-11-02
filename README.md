@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python |  Node 
+- 🌐 &nbsp; HTML | CSS | JavaScript | React 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Visual Studio code |  Git
+
 <!--
 **jpablolima/jpablolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
