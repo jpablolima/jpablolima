@@ -3,7 +3,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python |  Node 
-- 🌐 &nbsp; HTML | CSS | JavaScript | React 
+- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | React 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code |  Git
 
