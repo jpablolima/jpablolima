@@ -1,11 +1,5 @@
 ### Hey, I'm João Pablo 👋
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python |  Node 
-- 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | Vue 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Visual Studio code |  Git
 
 <br>
 
