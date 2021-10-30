@@ -1,5 +1,5 @@
-### Hey, I'm João Pablo 👋
-
+<h1> Hey, I'm João Pablo 👋 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpablolima&color=yellow" alt="Profile views" /> </p>
 
 <br>
 
