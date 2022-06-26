@@ -1,12 +1,11 @@
-<h1> Hey, I'm João Pablo 👋 </h1>
+<h1> Hey, I'm João Pablo 👋 </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpablolima&color=yellow" alt="Profile views" /> </p>
 
 
 - 👨‍💻 Infrastructure analyst an  tech enthusiast 
-
 - 🔭 I’m currently working at [Delta Point](https://deltapoint.com.br/)
-
 - 👨‍💻 All of my projects are available at [João Pablo](https://github.com/jpablolima)
+
 
 <br>
 
