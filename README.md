@@ -18,7 +18,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=Postgresql)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
 ![VsCode](https://img.shields.io/badge/-Visual%20studio%20code-05122A?style=flat&logo=visual-studio-code&logoColor=007Acc)&nbsp;
