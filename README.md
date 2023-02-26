@@ -3,8 +3,9 @@
 
 
 - 👨‍💻 Infrastructure analyst an  tech enthusiast 
-- 🔭 I’m currently working at [Delta Point](https://deltapoint.com.br/)
+  <!-- 🔭 I’m currently working at [Delta Point](https://deltapoint.com.br/)  -->
 - 👨‍💻 All of my projects are available at [João Pablo](https://github.com/jpablolima)
+- ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 <br>
