@@ -28,7 +28,7 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jpablolima=anuraghazra&hide=contribs,prs)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?jpablolima=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
