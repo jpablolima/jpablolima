@@ -21,9 +21,9 @@
 ![ShellScript](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=ShellScript)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins&logoColor=F5AA45)&nbsp;
 
-
-![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jpablolima&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/jgphilpott/github-readme-activity-graph)
 
