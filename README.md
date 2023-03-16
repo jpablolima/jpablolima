@@ -2,6 +2,7 @@
 <h1> Hey, I'm João Pablo 👋 </h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpablolima&color=yellow" alt="Profile views" /> </p>
 
+
 - 👨‍💻 Infrastructure analyst an  tech enthusiast 
   <!-- 🔭 I’m currently working at [Delta Point](https://deltapoint.com.br/)  -->
 - 👨‍💻 All of my projects are available at [João Pablo](https://github.com/jpablolima)
@@ -20,9 +21,11 @@
 ![ShellScript](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=ShellScript)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins&logoColor=F5AA45)&nbsp;
 
-- ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jpablolima&bg_color=ffffff&color=000000&line=1b50bb&point=16d079&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jpablolima&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/jgphilpott/github-readme-activity-graph)
 
 <br><br>
 
