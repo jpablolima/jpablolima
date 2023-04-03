@@ -16,6 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+![GitHub](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 ![VsCode](https://img.shields.io/badge/-Visual%20studio%20code-05122A?style=flat&logo=visual-studio-code&logoColor=007Acc)&nbsp;
 ![ShellScript](https://img.shields.io/badge/-ShellScript-05122A?style=flat&logo=ShellScript)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins&logoColor=F5AA45)&nbsp;
