@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
-[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jpablolima&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/jgphilpott/github-readme-activity-graph)
+[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jpablolima&theme=vue&area=true&hide_border=true&custom_title=Past%20Months%20Activity">](https://github.com/jgphilpott/github-readme-activity-graph)
 
 <br><br>
 
