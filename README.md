@@ -29,7 +29,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpablolima&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## ⚙️ &nbsp;GitHub Analytics
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jpablolima&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jpablolima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jpablolima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=jpablolima&show_icons=true)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jpablolima&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats) 
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44803F&height=120&section=footer"/>
+
