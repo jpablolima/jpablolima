@@ -12,9 +12,6 @@
    ![Status](./profile/profile-night-green.svg)
 
     
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jpablolima&theme=dracula&utcOffset=-3)]
- | ----------- | ----------- |
-
 
 
 
