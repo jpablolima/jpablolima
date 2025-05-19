@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44803F&height=120&section=header"/>
 <h1> Hey, I'm João Pablo 👋 </h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpablolima&color=yellow" alt="Profile views" /> </p>
+
 
 
 - 👨‍💻 Infrastructure analyst an  tech enthusiast 
