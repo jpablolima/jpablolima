@@ -9,7 +9,6 @@
 ## 🛠 &nbsp;Tech Stack
 
  
-   ![Status](./profile/profile-night-green.svg)
 
     
 
